@@ -1,3 +1,35 @@
 [
-        {}
+        {
+                "name": "Audi RS5",
+                "horsepower": 150,
+                "torque": 150,
+                "drivetrain": "AWD",
+                "imgUrl": "https://imgd.aeplcdn.com/664x374/cw/ec/34028/Audi-RS5-Exterior-125266.jpg"
+        },
+        {
+                "name": "Audi R8",
+                "horsepower": 450,
+                "torque": 500,
+                "drivetrain": "AWD",
+                "imgUrl": "https://imgd.aeplcdn.com/664x374/cw/ec/21724/Audi-R8-Right-Front-Three-Quarter-66713.jpg"
+        },
+        {
+                "name": "Audi RSQ8",
+                "horsepower": 450,
+                "torque": 450,
+                "drivetrain": "AWD",
+                "imgUrl": "https://images.carandbike.com/car-images/large/audi/rs-q8/audi-rs-q8.jpg"
+        },
+        {
+                "name": "Atom Ariel",
+                "horsepower": 150,
+                "torque": 150,
+                "drivetrain": "AWD"
+        },
+        {
+                "name": "Abarth 500",
+                "horsepower": 150,
+                "torque": 150,
+                "drivetrain": "AWD"
+        }
 ]
