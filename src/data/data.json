@@ -4,6 +4,7 @@
                 "horsepower": 150,
                 "torque": 150,
                 "drivetrain": "AWD",
+                "year": "2018",
                 "imgUrl": "https://imgd.aeplcdn.com/664x374/cw/ec/34028/Audi-RS5-Exterior-125266.jpg"
         },
         {
@@ -11,25 +12,51 @@
                 "horsepower": 450,
                 "torque": 500,
                 "drivetrain": "AWD",
-                "imgUrl": "https://imgd.aeplcdn.com/664x374/cw/ec/21724/Audi-R8-Right-Front-Three-Quarter-66713.jpg"
+                "year": "2018",
+                "imgUrl": "https://imgd.aeplcdn.com/664x374/cw/ec/21724/Audi-R8-Right-Front-Three-Quarter-66713.jpg",
+                "tuned":{
+                        "horsepower": 800,
+                        "torque": 800,
+                        "drivetrain": "AWD"
+                }
         },
         {
                 "name": "Audi RSQ8",
                 "horsepower": 450,
                 "torque": 450,
                 "drivetrain": "AWD",
-                "imgUrl": "https://images.carandbike.com/car-images/large/audi/rs-q8/audi-rs-q8.jpg"
+                "year": "2020",
+                "imgUrl": "https://images.carandbike.com/car-images/large/audi/rs-q8/audi-rs-q8.jpg",
+                "tuned":{
+                        "horsepower": 500,
+                        "torque": 500,
+                        "drivetrain": "AWD"
+                }
         },
         {
-                "name": "Atom Ariel",
-                "horsepower": 150,
-                "torque": 150,
-                "drivetrain": "AWD"
+                "name": "Nissan GTR",
+                "horsepower": 565,
+                "torque": 500,
+                "drivetrain": "AWD",
+                "year": "2017",
+                "imgUrl": "https://img.gaadicdn.com/images/car-images/930x620/Nissan/Nissan-GTR/744/Nissan_GT-R_BLUE-RACING_000514.jpg",
+                "tuned":{
+                        "horsepower": 805,
+                        "torque": 805,
+                        "drivetrain": "AWD"
+                }
         },
         {
-                "name": "Abarth 500",
-                "horsepower": 150,
-                "torque": 150,
-                "drivetrain": "AWD"
+                "name": "Ford Focus RS",
+                "horsepower": 350 ,
+                "torque": 350 ,
+                "drivetrain": "AWD",
+                "year": "2018",
+                "imgUrl": "https://www.kindpng.com/picc/m/11-112355_new-cars-titan-ford-focus-rs-limited-ford.png",
+                "tuned":{
+                        "horsepower": 500,
+                        "torque": 501,
+                        "drivetrain": "AWD"
+                }
         }
 ]
